@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README.md
 
 ## Project Title:
