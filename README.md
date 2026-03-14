@@ -1,4 +1,3 @@
-  <<<<<<< HEAD
 # README.md
 
 ## Project Title:
@@ -67,9 +66,7 @@ This project requires the following libraries:
 - (Optional) SHAP, LIME for extended XAI methods
 - Google Colab / Jupyter Notebook
 
-All dependencies are preinstalled in **Google Colab**.
-
----
+All dependencies are preinstalled in **Google Colab**.  
 
 
 
