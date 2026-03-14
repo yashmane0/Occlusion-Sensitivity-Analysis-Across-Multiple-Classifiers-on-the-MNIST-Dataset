@@ -2,7 +2,9 @@
 
 ## Project Title:
 **Occlusion Sensitivity Analysis Across Multiple Classifiers on the MNIST Dataset**
-
+<video src="occlusion_mao_animation.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Team Members
