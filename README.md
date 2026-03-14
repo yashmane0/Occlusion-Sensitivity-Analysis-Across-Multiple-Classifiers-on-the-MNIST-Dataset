@@ -70,12 +70,3 @@ This project requires the following libraries:
 - Google Colab / Jupyter Notebook
 
 All dependencies are preinstalled in **Google Colab**.
-
----
-
-
-
-
-=======
-# Occlusion-Sensitivity-Analysis-Across-Multiple-Classifiers-on-the-MNIST-Dataset
->>>>>>> c23cd6cdd5c61fe7830b039eb7ff71a0587b8e5f
