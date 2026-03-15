@@ -3,8 +3,7 @@
 ## Project Title:
 **Occlusion Sensitivity Analysis Across Multiple Classifiers on the MNIST Dataset**
 <video width="100%" controls>
-  <source src="occlusion_map_animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/yashmane0/Occlusion-Sensitivity-Analysis-Across-Multiple-Classifiers-on-the-MNIST-Dataset/raw/main/occlusion_map_animation.mp4" type="video/mp4">
 </video>
 
 ---
